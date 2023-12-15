@@ -1,0 +1,12 @@
+
+Epoch 1 / 10..Train loss: 0.150..Train accuracy: 0.961..Train precision: 0.962..Train recall: 0.961..Train f1: 0.962..Validation accuracy: 0.950..Validation precision: 0.952..Validation recall: 0.950..Validation f1: 0.950
+Epoch 2 / 10..Train loss: 0.124..Train accuracy: 0.949..Train precision: 0.950..Train recall: 0.949..Train f1: 0.949..Validation accuracy: 0.932..Validation precision: 0.935..Validation recall: 0.932..Validation f1: 0.932
+Epoch 3 / 10..Train loss: 0.115..Train accuracy: 0.957..Train precision: 0.960..Train recall: 0.957..Train f1: 0.957..Validation accuracy: 0.946..Validation precision: 0.949..Validation recall: 0.946..Validation f1: 0.946
+Epoch 4 / 10..Train loss: 0.103..Train accuracy: 0.944..Train precision: 0.949..Train recall: 0.944..Train f1: 0.945..Validation accuracy: 0.927..Validation precision: 0.934..Validation recall: 0.927..Validation f1: 0.928
+Epoch 5 / 10..Train loss: 0.097..Train accuracy: 0.960..Train precision: 0.961..Train recall: 0.960..Train f1: 0.959..Validation accuracy: 0.943..Validation precision: 0.946..Validation recall: 0.943..Validation f1: 0.943
+Epoch 6 / 10..Train loss: 0.102..Train accuracy: 0.957..Train precision: 0.959..Train recall: 0.957..Train f1: 0.957..Validation accuracy: 0.943..Validation precision: 0.945..Validation recall: 0.943..Validation f1: 0.943
+Epoch 7 / 10..Train loss: 0.085..Train accuracy: 0.912..Train precision: 0.919..Train recall: 0.912..Train f1: 0.912..Validation accuracy: 0.894..Validation precision: 0.903..Validation recall: 0.894..Validation f1: 0.894
+Epoch 8 / 10..Train loss: 0.087..Train accuracy: 0.933..Train precision: 0.939..Train recall: 0.933..Train f1: 0.933..Validation accuracy: 0.916..Validation precision: 0.925..Validation recall: 0.916..Validation f1: 0.917
+Epoch 9 / 10..Train loss: 0.089..Train accuracy: 0.913..Train precision: 0.919..Train recall: 0.913..Train f1: 0.913..Validation accuracy: 0.895..Validation precision: 0.903..Validation recall: 0.895..Validation f1: 0.896
+Epoch 10 / 10..Train loss: 0.072..Train accuracy: 0.970..Train precision: 0.971..Train recall: 0.970..Train f1: 0.970..Validation accuracy: 0.954..Validation precision: 0.957..Validation recall: 0.954..Validation f1: 0.954
+Finished Training

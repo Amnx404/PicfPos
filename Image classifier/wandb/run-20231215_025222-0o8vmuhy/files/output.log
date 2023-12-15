@@ -1,0 +1,3 @@
+
+Epoch 1 / 10..Train loss: 2.871..Train accuracy: 0.276..Train precision: 0.288..Train recall: 0.276..Train f1: 0.255..Validation accuracy: 0.264..Validation precision: 0.278..Validation recall: 0.264..Validation f1: 0.243
+Epoch 2 / 10..Train loss: 2.196..Train accuracy: 0.435..Train precision: 0.468..Train recall: 0.435..Train f1: 0.429..Validation accuracy: 0.424..Validation precision: 0.455..Validation recall: 0.424..Validation f1: 0.419
