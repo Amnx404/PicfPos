@@ -1,13 +1,18 @@
-# Hey there!
-Welcome to the repo of PicfPos
 
-We are trying to build a small application/app which can help one navigate inside an indoor setting usin gjust their camera!
 
-Fell free to explore our work, or follow the steps below to find out what worked for us:
-1. We used CV to classify zones within an indoor setting
-2. used various models to evaluate their performance inside a room
-3. Deployed the model on a remote server : https://github.com/Amnx404/picfpos-backend
-4. Created a react powered frontend to utilising the server in order to navigate : https://github.com/Amnx404/picfpos-app
+# Greetings!
 
-I know its all jumbled up, but fear not, an indepth Medium Article coming soon!!!!
-Until then bbyeee..
+Welcome to the PicfPos repository.
+
+Our goal is to develop a compact application that enables effortless indoor navigation using just a camera!
+
+Feel encouraged to delve into our work. Alternatively, you can follow these steps to understand our successful approaches:
+1. Implemented Computer Vision (CV) to identify different zones in an indoor environment.
+2. Experimented with various models to assess their effectiveness in a room setting.
+3. Hosted our model on a remote server, accessible here: [PicfPos Backend](https://github.com/Amnx404/picfpos-backend).
+4. Developed a React-based front-end application that leverages our server for navigation purposes: [PicfPos App](https://github.com/Amnx404/picfpos-app).
+
+Though the information might seem overwhelming at first, don't worry! We're preparing an in-depth Medium Article to explain everything in detail. Stay tuned!
+
+Until then, farewell!
+
